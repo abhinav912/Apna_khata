@@ -15,4 +15,4 @@ React is used for frontend
 https://apnakhata-react.netlify.app/
 
 <h2>Screenshots</h2>
-![image](https://user-images.githubusercontent.com/62656507/208059159-9a815d06-7d48-4703-8bbb-580ae0c6b0ed.png)
+![Screenshot](https://github.com/abhinav912/Apna_khata/blob/main/Screenshot%202022-12-16%20142054.jpg?raw=True)
